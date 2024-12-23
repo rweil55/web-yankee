@@ -3,7 +3,7 @@ cd /inetpub/wwwroot/w/yankee
 
 
 git add .
-git commit -m "from indesign 2024-12-23 19:57" --no-edit
+git commit -m "from indesign 2024-12-23 20:32" --no-edit
 git push https://github.com/rweil55/web-yankee main
 
 rem wait for one minute to allow git hub to get its act together
